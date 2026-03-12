@@ -1,7 +1,7 @@
 # Flask CI/CD Pipeline with Docker and GitHub Actions
 
 ## Overview
-
+![CI/CD Pipeline](te.png)
 This project demonstrates a simple Flask API integrated with a CI/CD pipeline.
 The pipeline automatically runs tests, builds a Docker image, and pushes the image to Docker Hub whenever code is pushed to the `main` branch.
 
